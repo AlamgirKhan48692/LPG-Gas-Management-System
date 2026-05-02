@@ -63,8 +63,7 @@ LPG-Gas-Management-System
 
 You can access the live application here:
 
-http://alamgirkhan114awardspace.mywebcommunity.org/login.php
-
+https://insaflpg.kesug.com/login.php
 ---
 
 ## Installation Guide
